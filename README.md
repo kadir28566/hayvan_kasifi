@@ -3,6 +3,7 @@
 # Hayvan Kaşifi AR Eğitimi
 
 **Hayvan Kaşifi**, çocukların artırılmış gerçeklik (AR) ortamında hayvanları tanımasına ve quiz sistemiyle bilgilerini pekiştirmesine olanak veren bir mobil oyundur.
+#Trello linki: https://trello.com/b/akKCy68q/hayvan-kasifi
 
 ---
 
@@ -50,8 +51,8 @@
 
 ## Diyagramlar
 - **Use Case Diyagramı:** [Use Case Diyagramı Görseli (trello)](https://trello.com/c/c0kva72r/1-use-case-diyagram%C4%B1)
-- **Sınıf Diyagramı:** [Class Diyagramı Görseli (trello)]([https://link.to/class-diagram](https://trello.com/c/nF9KNAcJ/2-uml-class-diyagram%C4%B1))
-- **SWOT Analizi:** [SWOT Analizi Görseli (trello)]([[https://link.to/class-diagram](https://trello.com/c/nF9KNAcJ/2-uml-class-diyagram%C4%B1)](https://trello.com/c/ehHZ4MNc/3-swot-anali%CC%87zi%CC%87))
+- **Sınıf Diyagramı:** [Class Diyagramı Görseli (trello)](https://link.to/class-diagram](https://trello.com/c/nF9KNAcJ/2-uml-class-diyagram%C4%B1))
+- **SWOT Analizi:** [SWOT Analizi Görseli (trello)](https://link.to/class-diagram](https://trello.com/c/nF9KNAcJ/2-uml-class-diyagram%C4%B1)](https://trello.com/c/ehHZ4MNc/3-swot-anali%CC%87zi%CC%87))
 
 ---
 
