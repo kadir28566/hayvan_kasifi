@@ -2,7 +2,7 @@
 
 # Hayvan Kaşifi AR Eğitimi
 
-**Hayvan Kaşifi**, çocukların artırılmış gerçeklik (AR) ortamında hayvanları tanımasına ve quiz sistemiyle bilgilerini pekiştirmesine olanak veren bir mobil oyundur.
+**Hayvan Kaşifi**, çocukların artırılmış gerçeklik (AR) ortamında hayvanları tanımasına ve quiz sistemiyle bilgilerini pekiştirmesine olanak veren bir mobil oyundur. \n
 **Trello linki: https://trello.com/b/akKCy68q/hayvan-kasifi
 
 ---
